@@ -2,13 +2,13 @@
 # Password - pass
 
 # Implemented features
-Login/logout functionality
-Fetching current data
-Add Task
-View Task
-Delete Task
-Task Prioritization
-Persistent Storage
+* Login/logout functionality
+* Fetching current data
+* Add Task
+* View Task
+* Delete Task
+* Task Prioritization
+* Persistent Storage
 
 
 # Getting Started with Create React App
